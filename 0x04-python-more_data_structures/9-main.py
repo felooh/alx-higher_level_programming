@@ -8,4 +8,7 @@ new_dict = multiply_by_2(a_dictionary)
 print_sorted_dictionary(a_dictionary)
 print("--")
 print_sorted_dictionary(new_dict)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 353ce5250633ccf4050ae25a3333be2157cf0033

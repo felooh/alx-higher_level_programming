@@ -15,4 +15,7 @@ new_dict = simple_delete(a_dictionary, 'c_is_fun')
 print_sorted_dictionary(a_dictionary)
 print("--")
 print_sorted_dictionary(new_dict)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 353ce5250633ccf4050ae25a3333be2157cf0033
