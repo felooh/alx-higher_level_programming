@@ -17,6 +17,7 @@ import sys
 import unittest
 from models.base import Base
 from models.square import Square
+import tkinter
 
 
 class TestSquare_instantiation(unittest.TestCase):

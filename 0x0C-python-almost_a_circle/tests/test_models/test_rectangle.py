@@ -17,6 +17,7 @@ import sys
 import unittest
 from models.base import Base
 from models.rectangle import Rectangle
+import tkinter
 
 
 class TestRectangle_instantiation(unittest.TestCase):
